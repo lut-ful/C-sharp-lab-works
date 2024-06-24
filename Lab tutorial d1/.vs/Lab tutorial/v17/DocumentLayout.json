@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\readinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:readinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\loopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:loopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\swcstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:swcstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\statements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:statements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|e:\\versity\\onedrive - american international university-bangladesh\\summer 23-24\\oop2\\lab works\\lab tutorial d1\\diagonalestar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649CF043-FD3A-4CE5-87AC-5B37FB4A6D91}|Lab tutorial.csproj|solutionrelative:diagonalestar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:53:12.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "swcstat.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\swcstat.cs",
+              "RelativeDocumentMoniker": "swcstat.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\swcstat.cs",
+              "RelativeToolTip": "swcstat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:13:04.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "diagonaleStar.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\diagonaleStar.cs",
+              "RelativeDocumentMoniker": "diagonaleStar.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\diagonaleStar.cs",
+              "RelativeToolTip": "diagonaleStar.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:33:17.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ifelse.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\ifelse.cs",
+              "RelativeDocumentMoniker": "ifelse.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\ifelse.cs",
+              "RelativeToolTip": "ifelse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:10:36.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readinput.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\readinput.cs",
+              "RelativeDocumentMoniker": "readinput.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\readinput.cs",
+              "RelativeToolTip": "readinput.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:09:25.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "statements.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\statements.cs",
+              "RelativeDocumentMoniker": "statements.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\statements.cs",
+              "RelativeToolTip": "statements.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:48:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loopexample.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\loopexample.cs",
+              "RelativeDocumentMoniker": "loopexample.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\loopexample.cs",
+              "RelativeToolTip": "loopexample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:44:27.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\versity\\OneDrive - American International University-Bangladesh\\Summer 23-24\\OOP2\\Lab works\\Lab tutorial d1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:36:23.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
