@@ -12,3 +12,18 @@ E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\
 E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.pdb
 E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.genruntimeconfig.cache
 E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2\Lab works\lab tutorial d2\obj\Debug\net8.0\ref\lab tutorial d2.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\bin\Debug\net8.0\lab tutorial d2.exe
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\bin\Debug\net8.0\lab tutorial d2.deps.json
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\bin\Debug\net8.0\lab tutorial d2.runtimeconfig.json
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\bin\Debug\net8.0\lab tutorial d2.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\bin\Debug\net8.0\lab tutorial d2.pdb
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.GeneratedMSBuildEditorConfig.editorconfig
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.AssemblyInfoInputs.cache
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.AssemblyInfo.cs
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.csproj.CoreCompileInputs.cache
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.sourcelink.json
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\refint\lab tutorial d2.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.pdb
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\lab tutorial d2.genruntimeconfig.cache
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\lab tutorial d2\obj\Debug\net8.0\ref\lab tutorial d2.dll
