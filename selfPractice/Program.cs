@@ -1,5 +1,6 @@
 ﻿namespace selfPractice
 {
+    /*
     class Vehichle
     {
         public string brand ="Ford";
@@ -70,7 +71,7 @@
             Dog dog = new Dog();
             dog.animalsound();
             dog.sleep();
-            */
+            
             int[][] arr = new int[2][];
             arr[0] = new int[5] { 1, 3, 5, 7, 9 };
             arr[1] = new int[4] { 2, 4, 6, 8 };
@@ -87,6 +88,39 @@
                     Console.Write(arr[i][j] + " ");
                 Console.WriteLine();
             }
+        }
+    }
+    */
+    public class Program
+    {
+        public static double CalculateFinalSpeed(double initialSpeed, int[] inclinations)
+        {
+            try
+            {
+                for (int i = 0; i < inclinations.Length; i++)
+                {
+                    initialSpeed -= (initialSpeed*MathF.Cos(inclinations[i]));
+                }
+            }
+            catch
+            {
+                Console.WriteLine("problm faced");
+            }
+            return initialSpeed;
+        }
+
+        public static void Main(string[] args)
+        {
+            //Console.WriteLine(CalculateFinalSpeed(60, new int[] { 0, 30, 0, -45, 0 }));
+            Console.WriteLine(Math.Acos(0));
+            Console.WriteLine(MathF.Cos(90));
+
+            Console.WriteLine(Math.Asin(0.2));
+            Console.WriteLine(Math.Sin(2));
+
+            Console.WriteLine(Math.Atan(-5));
+            Console.WriteLine(Math.Tan(1));
+
         }
     }
 }

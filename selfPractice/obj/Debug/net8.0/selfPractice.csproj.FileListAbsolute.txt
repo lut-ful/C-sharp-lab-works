@@ -12,3 +12,18 @@ E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\
 E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.pdb
 E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.genruntimeconfig.cache
 E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2\Lab works\selfPractice\obj\Debug\net8.0\ref\selfPractice.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\bin\Debug\net8.0\selfPractice.exe
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\bin\Debug\net8.0\selfPractice.deps.json
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\bin\Debug\net8.0\selfPractice.runtimeconfig.json
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\bin\Debug\net8.0\selfPractice.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\bin\Debug\net8.0\selfPractice.pdb
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.AssemblyInfoInputs.cache
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.AssemblyInfo.cs
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.csproj.CoreCompileInputs.cache
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.sourcelink.json
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\refint\selfPractice.dll
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.pdb
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\selfPractice.genruntimeconfig.cache
+E:\versity\OneDrive - American International University-Bangladesh\Summer 23-24\OOP2(summer 23-24)\Lab works\selfPractice\obj\Debug\net8.0\ref\selfPractice.dll
